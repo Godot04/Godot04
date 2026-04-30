@@ -1,8 +1,8 @@
 <h1 align="center">👋 Oleksandr Popov</h1>
-<h3 align="center">Software Developer | C/C++ • C# • Unity • Backend Foundations</h3>
+<h3 align="center">Software Developer | C/C++ • C# • Unity</h3>
 
 <p align="center">
-  Stuttgart, Germany • 
+  Wolfsburg, Germany • 
   <a href="mailto:popov.oleksandr2504@gmail.com">popov.oleksandr2504@gmail.com</a> •
   <a href="https://linkedin.com/in/oleksandr-popov" target="_blank">LinkedIn</a>
 </p>
