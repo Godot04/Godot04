@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oleksandr Popov</h1>
-<h3 align="center">A passionate software developer</h3>
+<h1 align="left">👋 Oleksandr Popov</h1>
+<h3 align="left">A passionate software developer</h3>
 
 - 🔭 I’m currently working on [GodotStation_Echo](https://github.com/Godot04/GodotStation_Echo)
 
