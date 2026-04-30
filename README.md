@@ -4,7 +4,7 @@
 <p align="center">
   Wolfsburg, Germany • 
   <a href="mailto:popov.oleksandr2504@gmail.com">popov.oleksandr2504@gmail.com</a> •
-  <a href="[https://linkedin.com/in/oleksandr-popov](https://www.linkedin.com/in/oleksandr-popov-442909381/)" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/oleksandr-popov-442909381/" target="_blank">LinkedIn</a>
 </p>
 
 ---
