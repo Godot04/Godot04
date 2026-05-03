@@ -49,6 +49,7 @@ Currently, I work with **C/C++**, **C#**, and **Unity**.
 
 ## 🤝 Let’s Connect
 
+Open to connect on Game development
 - 📫 Email: **popov.oleksandr2504@gmail.com**
 - 💼 LinkedIn: <a href="https://linkedin.com/in/oleksandr-popov" target="_blank">oleksandr-popov</a>
 
