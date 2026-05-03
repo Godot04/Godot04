@@ -10,7 +10,7 @@
 ## 🎯 About Me
 
 I’m a software developer focused on building reliable applications and strengthening my engineering fundamentals.  
-Currently, I work with **C/C++**, **C#**, and **Unity**, and I’m continuously improving my skills in **backend development**, **Linux**, and **system design**.
+Currently, I work with **C/C++**, **C#**, and **Unity**.
 
 ---
 
