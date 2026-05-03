@@ -17,7 +17,7 @@ Currently, I work with **C/C++**, **C#**, and **Unity**.
 ## 🚀 Currently Working On
 
 - 🔭 **GodotStation_Echo**: https://github.com/Godot04/GodotStation_Echo  
-- 🌱 Learning: **Unity and C#** (and improving clean architecture & project structure)
+- 🌱 Learning: **Unity and C#** (improving clean architecture & project structure)
 
 ---
 
