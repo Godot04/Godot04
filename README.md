@@ -23,7 +23,7 @@ I’m a software developer focused on building reliable, efficient applications.
 ## 🧩 What I Do
 
 - **Game / Interactive Development**: Unity (C#), gameplay systems, iteration & debugging  
-- **Programming Fundamentals**: algorithms, data structures, memory concepts (C/C++)  
+- **Systems Programming**: Linux/Unix fundamentals, memory management and perfomance optimization (C/C++)
 - **Backend Basics**: APIs, databases, deployment tooling
 
 ---
