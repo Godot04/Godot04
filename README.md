@@ -33,7 +33,7 @@ I’m a software developer focused on building reliable, efficient applications.
 
 **Languages**: C, C++, C#  
 **Game Dev**: Unity
-**OS**: Linux (Ubuntu) 
+**OS**: Linux (Ubuntu)
 **Virtualization / Containers**: Ubuntu VMs, Docker
 **Tools / DevOps**: Git, Nginx
 **Databases**: MySQL, MariaDB  
