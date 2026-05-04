@@ -32,8 +32,10 @@ I’m a software developer focused on building reliable, efficient applications.
 ## 💻 Technical Skills
 
 **Languages**: C, C++, C#  
-**Game Dev**: Unity  
-**Tools / DevOps**: Git, Docker, Nginx, Linux  
+**Game Dev**: Unity
+**OS**: Linux (Ubuntu) 
+**Virtualization / Containers**: Ubuntu VMs, Docker
+**Tools / DevOps**: Git, Nginx
 **Databases**: MySQL, MariaDB  
 **Also exploring**: .NET ecosystem and backend architecture
 
