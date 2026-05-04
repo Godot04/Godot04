@@ -15,7 +15,7 @@ I’m a software developer focused on building reliable, efficient applications.
 
 ## 🚀 Currently Working On
 
-- 🔭 **ECHO-Protocol-SS14**: https://github.com/SS14EchoProtocol/Echo-Protocol-SS14
+- 🔭 **ECHO-Protocol-SS14** (as the maintainer): https://github.com/SS14EchoProtocol/Echo-Protocol-SS14
 - 🌱 Learning: **Unity and C#** (improving clean architecture & project structure)
 
 ---
