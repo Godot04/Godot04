@@ -1,5 +1,5 @@
 <h1 align="center">👋 Oleksandr Popov</h1>
-<h3 align="center">Software Developer | C/C++ • C# • Unity</h3>
+<h3 align="center">Software Developer | C/C++ • C#</h3>
 
 <p align="center">
   Wolfsburg, Germany
