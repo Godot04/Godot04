@@ -9,8 +9,7 @@
 
 ## 🎯 About Me
 
-I’m a software developer focused on building reliable applications and strengthening my engineering fundamentals.  
-Currently, I work with **C/C++**, **C#**, and **Unity**.
+I’m a software developer focused on building reliable, efficient applications. I combine low-level systems work (C/C++) with high-level application development (C#) to create maintainable software with strong performance characteristics. Сurrently studying at 42Wolfsburg, strengthening my foundation in software engineering and systems programming while expanding my skills in product development and low-level optimization. I’m moving from traditional academic learning toward a more hands-on environment to gain real teamwork experience and enhance my problem-solving skills.
 
 ---
 
@@ -25,7 +24,7 @@ Currently, I work with **C/C++**, **C#**, and **Unity**.
 
 - **Game / Interactive Development**: Unity (C#), gameplay systems, iteration & debugging  
 - **Programming Fundamentals**: algorithms, data structures, memory concepts (C/C++)  
-- **Backend Basics**: APIs, databases, deployment tooling (growing in this area)
+- **Backend Basics**: APIs, databases, deployment tooling
 
 ---
 
