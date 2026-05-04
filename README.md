@@ -80,10 +80,6 @@ Open to connect on Game development.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Godot04&show_icons=true&locale=en&layout=compact" alt="Godot04 top languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Godot04&show_icons=true&locale=en" alt="Godot04 stats" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Godot04&" alt="Godot04 streak stats" />
 </p>
