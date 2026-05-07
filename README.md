@@ -16,16 +16,18 @@ I’m a software developer focused on building reliable, efficient applications.
 ## 🚀 Currently Working On
 
 - 🔭 **ECHO-Protocol-SS14** (as the maintainer): https://github.com/SS14EchoProtocol/Echo-Protocol-SS14
-- 🌱 Learning: **Unity and C#** (improving clean architecture & project structure)
+- 🌱 Learning: **Unity and Godot** (improving clean architecture & project structure)
 
 ---
 
 ## 🧩 What I Do
 
 - **Game Development**: Unity (C#), gameplay systems, iteration & debugging  
-- **Systems Programming**: Linux fundamentals, memory management and performance optimization (C/C++)
+- **Systems Programming**: Linux fundamentals, memory management and performance optimization (C/C++), multithreading, IPC via UNIX signals
 - **Dev Environment / Tooling**: Ubuntu (VMs), Docker, Git-based workflows
 - **Backend Basics**: APIs, databases, deployment tooling
+- **Game / Graphics Foundations**: raycasting 3D renderer, 2D game with MiniLibX (low‑level graphics library)
+- **Networking**: routing/subnetting, custom IRC server (C++)
 
 ---
 
@@ -38,6 +40,7 @@ I’m a software developer focused on building reliable, efficient applications.
 **Tools / DevOps**: Git, Nginx  
 **Databases**: MySQL, MariaDB  
 **Also exploring**: .NET ecosystem and backend architecture
+**Web / CMS**: WordPress
 
 ---
 
