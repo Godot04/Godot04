@@ -23,10 +23,10 @@ I’m a software developer focused on building reliable, efficient applications.
 ## 🧩 What I Do
 
 - **Game Development**: Unity (C#), gameplay systems, iteration & debugging  
+- **Graphics Foundations**: raycasting 3D renderer, 2D game with MiniLibX (low‑level graphics library)  
 - **Systems Programming**: Linux fundamentals, memory management and performance optimization (C/C++), multithreading, IPC via UNIX signals
 - **Dev Environment / Tooling**: Ubuntu (VMs), Docker, Git-based workflows
 - **Backend Basics**: APIs, databases, deployment tooling
-- **Game / Graphics Foundations**: raycasting 3D renderer, 2D game with MiniLibX (low‑level graphics library)
 - **Networking**: routing/subnetting, custom IRC server (C++)
 
 ---
@@ -39,8 +39,8 @@ I’m a software developer focused on building reliable, efficient applications.
 **Virtualization / Containers**: Ubuntu VMs, Docker  
 **Tools / DevOps**: Git, Nginx  
 **Databases**: MySQL, MariaDB  
+**Web / CMS**: WordPress  
 **Also exploring**: .NET ecosystem and backend architecture
-**Web / CMS**: WordPress
 
 ---
 
