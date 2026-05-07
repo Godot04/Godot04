@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-I’m a software developer focused on building reliable, efficient applications. I combine low-level systems work (C/C++) with high-level application development (C#) to create maintainable software with strong performance characteristics. Currently studying at 42Wolfsburg, strengthening my foundation in software engineering and systems programming while expanding my skills in product development and low-level optimization. I’m moving from traditional academic learning toward a more hands-on environment to gain real teamwork experience and enhance my problem-solving skills.
+I’m a software developer focused on building reliable, efficient applications. I combine low-level systems work (C/C++) with high-level application development (C#) to create maintainable software solutions. I’m especially interested in game development and backend infrastructure.
 
 ---
 
@@ -82,8 +82,8 @@ Open to connect on Game development.
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godot04&show_icons=true&locale=en&layout=compact" alt="godot04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Godot04&show_icons=true&locale=en&layout=compact" alt="godot04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godot04&show_icons=true&locale=en" alt="godot04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Godot04&show_icons=true&locale=en" alt="godot04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godot04&" alt="godot04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Godot04&" alt="godot04" /></p>
