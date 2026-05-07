@@ -82,8 +82,8 @@ Open to connect on Game development.
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Godot04&show_icons=true&locale=en&layout=compact" alt="godot04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godot04&layout=compact&show_icons=true&locale=en&cache_seconds=1800&v=1" alt="godot04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Godot04&show_icons=true&locale=en" alt="godot04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Godot04&show_icons=true&locale=en&cache_seconds=1800&v=1" alt="godot04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Godot04&" alt="godot04" /></p>
